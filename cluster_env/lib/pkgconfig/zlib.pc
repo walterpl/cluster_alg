@@ -1,0 +1,13 @@
+prefix=/Users/walterpereira/opt/anaconda3/envs/cluster_env
+exec_prefix=/Users/walterpereira/opt/anaconda3/envs/cluster_env
+libdir=/Users/walterpereira/opt/anaconda3/envs/cluster_env/lib
+sharedlibdir=/Users/walterpereira/opt/anaconda3/envs/cluster_env/lib
+includedir=/Users/walterpereira/opt/anaconda3/envs/cluster_env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -1,0 +1,86 @@
+{
+  "build": "py39hecd8cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "ipython",
+    "python >=3.9,<3.10.0a0"
+  ],
+  "extracted_package_dir": "/Users/walterpereira/opt/anaconda3/pkgs/pivottablejs-0.9.0-py39hecd8cb5_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/pivottablejs-0.9.0-py3.9.egg-info/PKG-INFO",
+    "lib/python3.9/site-packages/pivottablejs-0.9.0-py3.9.egg-info/SOURCES.txt",
+    "lib/python3.9/site-packages/pivottablejs-0.9.0-py3.9.egg-info/dependency_links.txt",
+    "lib/python3.9/site-packages/pivottablejs-0.9.0-py3.9.egg-info/top_level.txt",
+    "lib/python3.9/site-packages/pivottablejs/__init__.py",
+    "lib/python3.9/site-packages/pivottablejs/__pycache__/__init__.cpython-39.pyc"
+  ],
+  "fn": "pivottablejs-0.9.0-py39hecd8cb5_0.conda",
+  "legacy_bz2_md5": "b71ef6726fa8bcde3067e1f87f280968",
+  "license": "MIT License",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/walterpereira/opt/anaconda3/pkgs/pivottablejs-0.9.0-py39hecd8cb5_0",
+    "type": 1
+  },
+  "md5": "3031897041ab876f748f4194cdcafc27",
+  "name": "pivottablejs",
+  "package_tarball_full_path": "/Users/walterpereira/opt/anaconda3/pkgs/pivottablejs-0.9.0-py39hecd8cb5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.9/site-packages/pivottablejs-0.9.0-py3.9.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "74b2cd55621f7398af6ceddbfaa36e068337af52a718e201731c9aca56ce43cf",
+        "sha256_in_prefix": "74b2cd55621f7398af6ceddbfaa36e068337af52a718e201731c9aca56ce43cf",
+        "size_in_bytes": 2399
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pivottablejs-0.9.0-py3.9.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "0be33263f7ba000d2e664fe73f437e1f0d070af59401c90241c79b48b7034b78",
+        "sha256_in_prefix": "0be33263f7ba000d2e664fe73f437e1f0d070af59401c90241c79b48b7034b78",
+        "size_in_bytes": 210
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pivottablejs-0.9.0-py3.9.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pivottablejs-0.9.0-py3.9.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "d214f907f8337f95bfb06a47ac2ec81bc0a8b93d6b8fc916d8295cc228ac171c",
+        "sha256_in_prefix": "d214f907f8337f95bfb06a47ac2ec81bc0a8b93d6b8fc916d8295cc228ac171c",
+        "size_in_bytes": 13
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pivottablejs/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1737219b0b626a07ea8a36865e9bd9ebb3952faf810e7f23a1c6ba638531c2b8",
+        "sha256_in_prefix": "1737219b0b626a07ea8a36865e9bd9ebb3952faf810e7f23a1c6ba638531c2b8",
+        "size_in_bytes": 3668
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pivottablejs/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "49feb2da235d5fd109b9a8bef4924ebbd345539edb5f89c2bc1262b654f185c6",
+        "sha256_in_prefix": "49feb2da235d5fd109b9a8bef4924ebbd345539edb5f89c2bc1262b654f185c6",
+        "size_in_bytes": 3872
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pivottablejs",
+  "sha256": "12b72171e13ce7a90e863590be6532d3e16ed3d039223b582f66f0bf73c93c81",
+  "size": 249862,
+  "subdir": "osx-64",
+  "timestamp": 1614011663554,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/pivottablejs-0.9.0-py39hecd8cb5_0.conda",
+  "version": "0.9.0"
+}
